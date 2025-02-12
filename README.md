@@ -57,4 +57,4 @@ Dataset Link: [Car Price Dataset](https://drive.google.com/file/d/1FHmYNLs9v0Enc
 - Integrate **more features** like car age, brand reputation, and mileage.
 
 ## Author
-[Aneeta Abraham](https://github.com/AneetaAbhm)
+[Joel Joshi](https://github.com/JoelJoshi2002)
